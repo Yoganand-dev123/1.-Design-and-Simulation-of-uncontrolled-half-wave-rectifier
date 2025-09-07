@@ -52,10 +52,11 @@ Resistance=0.5 ohm
 Vin = 220 Vrms at 50Hz (312 Vp)
 <img width="940" height="349" alt="image" src="https://github.com/user-attachments/assets/b2bb32b7-4bbf-4398-a2eb-a14853f5205a" />
 ## Simulation
-
+<img width="1392" height="471" alt="Screenshot 2025-09-07 134643" src="https://github.com/user-attachments/assets/8138ffbb-3e42-4fe0-8262-4e6b0e03d54b" />
 ## Output
-
+<img width="1901" height="889" alt="Screenshot 2025-09-07 134514" src="https://github.com/user-attachments/assets/65fa5d9f-ac28-4ffe-a865-b3392071efc0" />
 ## Result
+Thus the Half wave rectifier (Uncontrolled) is designed and simulated in MATLAB Simulink.
 
 
 
